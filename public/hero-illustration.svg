@@ -1,0 +1,52 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Фон иллюстрации -->
+  <rect width="800" height="600" fill="#F8FAFC" rx="20" />
+  
+  <!-- Декоративные элементы -->
+  <circle cx="200" cy="150" r="80" fill="#DBEAFE" />
+  <circle cx="600" cy="400" r="100" fill="#EFF6FF" />
+  
+  <!-- Компьютер -->
+  <rect x="300" y="200" width="280" height="180" rx="10" fill="#1E40AF" />
+  <rect x="310" y="210" width="260" height="140" rx="5" fill="#FFFFFF" />
+  <rect x="360" y="380" width="160" height="20" rx="5" fill="#1E40AF" />
+  <rect x="340" y="400" width="200" height="10" rx="5" fill="#1E40AF" />
+  
+  <!-- Контент внутри экрана -->
+  <rect x="330" y="230" width="220" height="20" rx="3" fill="#DBEAFE" />
+  <rect x="330" y="260" width="180" height="10" rx="3" fill="#EFF6FF" />
+  <rect x="330" y="280" width="160" height="10" rx="3" fill="#EFF6FF" />
+  <rect x="330" y="300" width="200" height="10" rx="3" fill="#EFF6FF" />
+  <rect x="330" y="320" width="70" height="20" rx="10" fill="#2563EB" />
+  
+  <!-- Элементы дизайна -->
+  <circle cx="440" cy="450" r="5" fill="#DBEAFE" />
+  <circle cx="440" cy="470" r="5" fill="#DBEAFE" />
+  <circle cx="460" cy="450" r="5" fill="#DBEAFE" />
+  <circle cx="460" cy="470" r="5" fill="#DBEAFE" />
+  
+  <!-- Код внутри иллюстрации -->
+  <rect x="150" y="300" width="100" height="150" rx="5" fill="#EFF6FF" />
+  <rect x="160" y="310" width="80" height="5" rx="2" fill="#2563EB" />
+  <rect x="160" y="325" width="60" height="5" rx="2" fill="#93C5FD" />
+  <rect x="160" y="340" width="70" height="5" rx="2" fill="#93C5FD" />
+  <rect x="160" y="355" width="50" height="5" rx="2" fill="#93C5FD" />
+  <rect x="160" y="370" width="65" height="5" rx="2" fill="#93C5FD" />
+  <rect x="160" y="385" width="55" height="5" rx="2" fill="#93C5FD" />
+  <rect x="160" y="400" width="75" height="5" rx="2" fill="#93C5FD" />
+  <rect x="160" y="415" width="60" height="5" rx="2" fill="#93C5FD" />
+  <rect x="160" y="430" width="80" height="5" rx="2" fill="#2563EB" />
+  
+  <!-- Абстрактные фигуры -->
+  <path d="M650 150 L700 180 L670 230 L620 200 Z" fill="#BFDBFE" />
+  <path d="M100 450 L150 430 L170 480 L120 500 Z" fill="#BFDBFE" />
+  
+  <!-- Анимация (имитация) -->
+  <circle cx="650" cy="300" r="30" fill="#EFF6FF" />
+  <circle cx="650" cy="300" r="20" fill="#DBEAFE" />
+  <circle cx="650" cy="300" r="10" fill="#BFDBFE" />
+  
+  <!-- Логотип -->
+  <circle cx="150" cy="100" r="40" fill="#2563EB" />
+  <text x="150" y="108" text-anchor="middle" fill="white" font-family="Arial" font-size="20" font-weight="bold">DA</text>
+</svg>
